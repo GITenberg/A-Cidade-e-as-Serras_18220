@@ -1,0 +1,40 @@
+_repo: A-Cidade-e-as-Serras_18220
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Queirós, Eça de
+    aliases:
+    - Queiroz, José Maria Eça de
+    - Queirós, José Maria Eça de
+    - Queiroz, Eça de
+    - Queiroz, Jose Maria Eca de
+    - Queiros, Jose Maria Eca de
+    - Queiroz, Eca de
+    birthdate: 1845
+    deathdate: 1900
+    gutenberg_agent_id: '4852'
+    url: http://www.gutenberg.org/2009/agents/4852
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jos%C3%A9_Maria_E%C3%A7a_de_Queiroz
+    - http://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz
+description: ''
+gutenberg_bookshelf: PT Romance
+gutenberg_issued: '2006-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18220'
+language: pt
+language_note: "This ebook uses a beginning of the 20th century spelling. \r\nA spelling\
+  \ modernization following Standard Portuguese from the beginning of the 21st century\
+  \ is included as a link from the html file."
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portugal -- Fiction'
+title: A Cidade e as Serras
+url: http://www.gutenberg.org/ebooks/18220
